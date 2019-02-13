@@ -12,4 +12,4 @@
 include('Markdown.class.php');
 
 //	...
-return new Markdown();
+return new \OP\UNIT\Markdown();
